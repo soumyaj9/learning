@@ -47,3 +47,9 @@ preferences, and other factors influencing e-commerce operations. By analyzing t
 and addressing the key questions, we hope to assist stakeholders in making informed decisions
 and optimizing their sales strategies.
 Feel free to explore the repository and contribute to further analysis or enhancements!
+
+## Notice:
+All customer names and data used in this project are computer-generated using AI and random
+functions. They do not represent real data associated with Amazon or any other entity. This
+project is solely for learning and educational purposes, and any resemblance to actual persons,
+businesses, or events is purely coincidental.
